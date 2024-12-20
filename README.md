@@ -6,8 +6,10 @@ The Recipe Generator is a web application that allows users to input ingredients
 
 ## Screenshots :
 ![Home Page1](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image2.png)
-![Home Page2](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image3.png)
-![Home Page3](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image4.png)
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image3.png" alt="Home Page2" width="48%">
+  <img src="https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image4.png" alt="Home Page3" width="48%">
+</div>
 
 
 ## Features
