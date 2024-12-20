@@ -5,10 +5,9 @@
 The Recipe Generator is a web application that allows users to input ingredients they have on hand, and it will suggest recipes using those ingredients. The app leverages the Hugging Face Mistral API to generate recipe suggestions and is built with React, HTML, CSS, and Tailwind CSS for styling.
 
 ## Screenshots :
-![Home Page1](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image1.png)
-![Home Page2](images/image2)
-![Home Page3](images/image4)
-![Home Page4](images/image5)
+![Home Page1](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image2.png)
+![Home Page2](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image3.png)
+![Home Page3](https://raw.github.com/ankit-chaturvedi/Recipe-Generator/master/images/image4.png)
 
 
 ## Features
