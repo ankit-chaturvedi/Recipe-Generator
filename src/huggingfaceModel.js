@@ -1,6 +1,6 @@
 import { HfInference } from "@huggingface/inference";
 
-const API_key = "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";
+const API_key = "";
 
 const hf = new HfInference(API_key);
 const SYSTEM_PROMPT = " you are a recipe generator. The user will give you at least 4 recipes from which you have to genearte a recipe. you can add a few basic ingredients. Return the recipe in markdown file format but do not mention the word markdown to the user. headings should be larger than content"
